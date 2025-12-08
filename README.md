@@ -13,7 +13,7 @@ Fields with Discrete Regularization](https://doi.org/10.1287/ijoc.2024.0850) by 
 
 
 **Important: This code is being developed on an on-going basis at 
-https://github.com/agomez8/MRF. Please go there if you would like to
+https://github.com/agomez8/MRFParametric. Please go there if you would like to
 get a more recent version or would like support**
 
 ## Cite
