@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/filegen/FileGeneratorCrossval.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/parse_sol/ParserReal.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/filegen/FileGeneratorInstance.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/mrfs/SolutionPath.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/mrfs/backwardsMapping/BackmapCompute.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/filegen/FileGeneratorReal.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/parse_sol/Parser.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/mrfs/backwardsMapping/InstanceGen.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/dag/DynamicProgram.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/mrfs/backwardsMapping/Backmapping.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/mrfs/backwardsMapping/InstanceGenLarge.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/filegen/FileGeneratorParallel.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/mrfs/MRFs.java</file>
+            <file>file:/G:/My%20Drive/Code/MRFs/src/dag/DagCompute.java</file>
+        </group>
+    </open-files>
+</project-private>
