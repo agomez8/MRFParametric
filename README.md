@@ -93,7 +93,7 @@ The rest of parameters are as follows:
 
 ## Output
 
-After solving an instance, the results are recorded in folder "./results". Several files are created Each instance solved is added as a new row to these files. 
+After solving an instance, the results are recorded in folder "./results". Several files are created at each run, which we now describe.
 
 File "time.csv" records the computational times. Each time a new instance is solved, a new row is added at the bottom of this file. The file is organized as follows:
 * Columns 1-6:  are the parameters used to generate the instance.
