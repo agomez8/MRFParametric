@@ -47,7 +47,7 @@ The methods are implemented in Java.
 
 ## Executing the code
 
-As a java code, the source code is precompiled and can be executed directly via file ./dist/MRFs.jar. 
+As a java code, the source code is precompiled and can be executed directly via file ./dist/MRFs.jar. Before execution, please go to the data folder and extract the .zip file and leave the created files in the data folder. These files are the raw data associated with the instances in the paper.
 
 The code can be executed from the console. Files "runCrossval.bat" and "runReal.bat" contain example of how to execute the code to solve synthetic and real instances. 
 
