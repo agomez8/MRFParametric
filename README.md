@@ -47,9 +47,9 @@ The methods are implemented in Java.
 
 ## Executing the code
 
-As a java code, the source code is precompiled and can be executed directly via file ./dist/MRFs.jar. Before execution, please go to the data folder and extract the .zip file and leave the created files in the data folder. These files are the raw data associated with the instances in the paper.
+As a java code, the source code is precompiled and can be executed directly via file ./dist/MRFs.jar. 
 
-The code can be executed from the console. Files "runCrossval.bat" and "runReal.bat" contain example of how to execute the code to solve synthetic and real instances. 
+The code can be executed from the console. Files "runCrossval.bat" and "runReal.bat" contain example of how to execute the code to solve synthetic and real instances. Before execution, please execute file "runInstanceGen.bat", which will populate the data folder with the raw data necessary to run the synthetic instances.
 
 To run crossvalidation, two calls to the software. The first one runs the proposed algorithm itself sing backwards mapping and dynamic programming to compute the entire solution path and prints the solutions to file. The second call simple reconstructs the solutions, uses cross-validation to find the best hyperparameter and determine the statistical properties. An example command to execute the code to tackle a synthetic instance is
 ```
